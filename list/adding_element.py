@@ -1,5 +1,6 @@
 # Creating a List
 List = []
+
 print("Initial blank List: ")
 print(List)
 # Addition of Elements in the List

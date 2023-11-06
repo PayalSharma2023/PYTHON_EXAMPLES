@@ -3,7 +3,6 @@ new_list = lis.copy()
 print('Copied List:', new_list)
 # Initializing list 
 lis1 = [ 1, 2, 3, 4 ] 
-
 # Using copy() to create a shallow copy 
 lis2 = lis1.copy() 
 
