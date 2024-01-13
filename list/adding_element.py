@@ -48,3 +48,6 @@ print(List)
 List.extend([8, 'Geeks', 'Always'])
 print("\nList after performing Extend Operation: ")
 print(List)
+
+a = [1,2,3]
+print(a)
